@@ -1,0 +1,64 @@
+body {
+   
+    font-family: 'DM Serif Display', serif;
+}
+
+nav {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#nav-link, #nav-brand {
+        color: #011627;
+}
+
+
+#hello {
+    color: #E71D36;
+    font-family: 'DM Serif Display', serif;
+    font-size: 60px;
+
+}
+
+#intro {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+#portfolio {
+   position: relative;
+   background: rgb(255,159,28);
+   background: linear-gradient(90deg, rgba(255,159,28,1) 0%, rgba(231,29,54,1) 99%);
+}
+
+.custom-shape-divider-top-1634755059 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1634755059 svg {
+    position: relative;
+    display: block;
+    width: calc(106% + 1.3px);
+    height: 102px;
+}
+
+.custom-shape-divider-top-1634755059 .shape-fill {
+    fill: #FFFFFF;
+}
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Prata', serif; 
+font-family: 'DM Serif Display', serif;*/
+
+
+/* color palette */
+/* #011627
+#fdfffc
+#2EC4B6
+#E71D36
+#FF9F1C  */
