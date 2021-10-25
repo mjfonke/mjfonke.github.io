@@ -15,9 +15,17 @@ app.get('/', (req, res) => {
     res.render('page/home');
 });
 
+app.get('/portfolio', (req, res) => {
+    res.render('page/portfolio');
+});
+
 app.get('/about', (req, res) => {
-    res.render('This is About me page');
-})
+    res.render('page/about');
+});
+
+app.get('/contact', (req, res) => {
+    res.render('page/contact');
+});
 
 app.listen(3000, () => {
     console.log("ON PORT 3000!")
