@@ -2,7 +2,10 @@ body {
    
     font-family: 'DM Serif Display', serif;
 }
-
+.nav-box {
+    margin: 20px;
+    padding: 20px;
+}
 nav {
     font-family: 'Montserrat', sans-serif;
 }
@@ -12,6 +15,9 @@ nav {
         color: #011627;
 }
 
+#nav-link:hover {
+    border-bottom: 3px solid #E71D36;
+}
 
 #hello {
     color: #E71D36;
